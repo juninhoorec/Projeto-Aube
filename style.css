@@ -287,7 +287,12 @@ aside{
 
 .folder h3{
   padding:18px 12px;
-  font-size:1.1rem;
+  color:#2a2430;
+  font-family:'Fredoka',sans-serif;
+  font-size:1.15rem;
+  font-weight:600;
+  letter-spacing:.2px;
+  line-height:1.15;
   text-align:center;
 }
 
@@ -516,7 +521,7 @@ footer{
   .folder h3{
     padding:16px;
     text-align:center;
-    font-size:18px;
+    font-size:20px;
   }
 
   .photo-gallery{
