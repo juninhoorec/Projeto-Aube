@@ -26,6 +26,7 @@ header{
 }
 
 .logo{
+  text-decoration:none;
   font-size: 4rem;
   font-weight:700;
   color:#ff4fa3;
